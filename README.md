@@ -1,6 +1,6 @@
 # 05_ML_EmailSpamClassifier
 
-### Project Goal
+## Project Goal
 To check if a given email is a spam or not based on the email content.
 
 ## ML Algorithms used for comparison
